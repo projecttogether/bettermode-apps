@@ -1,0 +1,16 @@
+{
+  "name": "bettermode-coffee-test",
+  "version": "1.0.0",
+  "description": "This is a test for a bettermode app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@tribeplatform/gql-client": "^2.3.0"
+  }
+}
