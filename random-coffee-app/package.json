@@ -7,10 +7,11 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Raphael Reimann",
   "type": "module",
   "license": "ISC",
   "dependencies": {
-    "@tribeplatform/gql-client": "^2.3.0"
+    "@tribeplatform/gql-client": "^2.3.0",
+    "dotenv": "^16.0.3"
   }
 }
